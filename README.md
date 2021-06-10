@@ -1,1 +1,1 @@
-# SampleBanking
+# SimpleBanking
